@@ -201,16 +201,6 @@ transferOwnership(address)
 | **qrcode.react** | QR kod üretimi |
 
 ---
-
-### 🗺️ Gelecek Planlar
-
-- [ ] Testnet (Sepolia) deploy
-- [ ] IPFS ile sertifika & belge saklama
-- [ ] Mobil QR okuyucu ile herkese açık ilaç doğrulama sayfası
-- [ ] Dark mode
-- [ ] Çoklu dil desteği (TR / EN)
-
----
 ---
 
 ## 🇬🇧 English
